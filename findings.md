@@ -36,15 +36,19 @@ The data was combined and calculated as follows:
 
 ## Charts
 
-### Total prompts-and-outputs per $20 API spend
+### Per Month
 
-Method: as above
+*Based on a random prompt and output pair and using the LLMs' API pricing data available on Nov 12th 2024, how many prompts and outputs could you run every day before you reached the $20 a monthly ChatGPT sub costs?*
 
- ![alt text](charts/121124/per-month.png)
+![alt text](charts/121124/values-per-month.png)
+ 
 
-### Per-day prompts-and-outputs for $20 monthly spend cap
+### Per Day
 
-![](charts/121124/per-day.png)
+*.... how many would that work out to per day of a 30 day calendar month?*
+
+ ![alt text](charts/121124/values-per-day.png)
+
 
 
 ---
