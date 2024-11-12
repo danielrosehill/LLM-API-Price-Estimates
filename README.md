@@ -1,8 +1,12 @@
 # LLM Cost Estimates: Web UIs vs APIs
 
-## The Answer ... On 12 Nov 2024
+Note: this data is the output of a static (one-time) data gathering session conducted on Nov 12th 2024. The accuracy of the data cannot be assumed at any point after this date. 
 
-## Summary
+---
+
+## The Picture ... On 12 Nov 2024
+
+## Summary (LLMs By 'Family')
 
 | LLM              | Total Cost ($) | Per $20 | Per-Day |
 |------------------|------------|-----------|---------|
@@ -13,6 +17,18 @@
 | Claude 3 Opus    | 0.087660   | 228       | 7.6     |
 | Cohere R+        | 0.009328   | 2144      | 71      |
 | Cohere R        | 0.0011193   | 17868      | 596      |
+
+## Summary (Most To Least Usage For Budget)
+
+| LLM              | Total Cost ($) | Per $20 | Per-Day |
+|------------------|------------|-----------|---------|
+| GPT 4o mini      | 0.000618   | 32378     | 1080    |
+| Cohere R        | 0.0011193   | 17868      | 596      |
+| Mistral Large    | 0.006380   | 3135      | 105     |
+| GPT 4o           | 0.009328   | 2144      | 71      |
+| Cohere R+        | 0.009328   | 2144      | 71      |
+| Claude 3.5       | 0.014664   | 1364      | 46      |
+| Claude 3 Opus    | 0.087660   | 228       | 7.6     |
 
 ---
 
