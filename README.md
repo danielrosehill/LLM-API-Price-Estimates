@@ -1,6 +1,6 @@
 # LLM Cost Estimates: Web UIs vs APIs
 
-## The Answer - 12 Nov 2024
+## The Answer ... On 12 Nov 2024
 
 ## Summary
 
@@ -30,6 +30,20 @@
 *.... how many would that work out to per day of a 30 day calendar month?*
 
  ![alt text](charts/121124/values-per-day.png)
+
+ ## Major Cloud LLM APIs By Price - Inputs
+
+ *Caching, volumetric, and other discounts excluded where available*
+
+Higher values = higher cost per million tokens (of input)
+
+![alt text](charts/121124/3.png)
+
+ ## Major Cloud LLM APIs By Price - Outputs
+
+ Higher values = higher cost per million tokens (of output generated)
+
+![alt text](charts/121124/4.png)
 
 ---
 
