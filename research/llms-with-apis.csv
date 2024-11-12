@@ -1,0 +1,11 @@
+Provider,Models
+OpenAI,"GPT-3.5-turbo, GPT-3.5-turbo-16k, GPT-4, GPT-4-32k"
+Anthropic,"Claude 3.5 Sonnet, Claude 3.5 Haiku, Claude 3 Opus"
+Cohere,"Command, Command R, Command R+"
+Google Vertex AI,Gemini 1.5
+Mistral AI,"Mistral Nemo, Mistral Large 2"
+Amazon,"Titan Text Express, Titan Text Lite"
+AI21 Labs,Jurassic-2
+Stability AI,"Stable LM, Stable Code"
+EleutherAI,Pythia
+MosaicML,MPT (Mosaic Pruning Transformer)

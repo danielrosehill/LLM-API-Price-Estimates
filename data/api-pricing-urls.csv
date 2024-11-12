@@ -1,8 +1,10 @@
-Provider,URL
-OpenAI,https://platform.openai.com/pricing
-Claude (Anthropic),https://www.reddit.com/r/ClaudeAI/comments/1ersz43/claude_pro_vs_api_which_is_more_costeffective_for/
-Google Gemini,https://ai.google.dev/pricing
-Mistral AI,https://mistral.ai/technology/
-Cohere,https://cohere.com/pricing
-Meta Llama,https://ai.meta.com/blog/meta-llama-3-1/
-Llama API,https://www.llama-api.com/pricing
+Provider,URL,By-Creator,Link-Valid
+OpenAI,https://openai.com/api/pricing/,Yes,111224
+Claude (Anthropic),https://www.anthropic.com/pricing#anthropic-api,Yes,111224
+Mistral AI,https://mistral.ai/technology/#pricing,Yes,111224
+Cohere,https://cohere.com/pricing,Yes,111224
+Llama API,https://www.llama-api.com/pricing,No,111224
+Gemini API,https://ai.google.dev/pricing#1_5flash,Yes,111224
+A121labs,https://www.ai21.com/pricing,Yes,111224
+Perplexity,https://docs.perplexity.ai/guides/pricing,Yes,111224
+ ,,,
