@@ -3,3 +3,5 @@ Date-ISO,Source,LLM,Example_ID,Prompt_Tokens,Output_Tokens,Total_Tokens
 11-12-2024,Token-Counter.App,Mistral Large,1,46,1048,1094
 11-12-2024,Token-Counter.App,Claude 3.5,1,43,969,1012
 11-12-2024,Token-Counter.App,GPT 4o mini,1,43,922,965
+11-12-2024,Token-Counter.App,Claude 3 Opus,1,43,974,1017
+11-12-2024,Token-Counter.App,Mistral 2 Large,1,46,1049,1095

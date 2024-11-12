@@ -1,0 +1,11 @@
+LLM,Note,Sample-Output,Input-Tokens,Output-Tokens,Input-Tokens-M,Input-Tokens-USD-Mtok,Output-Tokens-M,Output-Tokens-USD-Mtok,Input-Cost-USD,Output-Cost-USD,Total-Cost,Per-20USD,Per-Day
+GPT 4o,Real token data,1,43,922,0.000043,2.5,0.000922,10.0,0.0001075,0.00922,0.009328,2144,71
+Mistral Large,Real token data,1,46,1048,0.000046,2.0,0.001048,6.0,0.000092,0.006288,"0.006380
+",3135,105
+Claude 3.5,Real token data,1,43,969,0.000043,3.0,0.000969,15.0,0.000129,0.014535,"0.014664
+",1364,46
+GPT 4o mini,Real token data,1,43,922,0.000043,0.15,0.000922,0.6,0.00000645,0.0005532,0.000618,32378,1080
+Claude 3 Opus,Real token data,1,43,974,0.000043,15.0,0.000974,75.0,0.014610,0.07305,0.087660,228,7.6
+Mistral 2 Large,Real token data,1,46,1049,0.000046,2.0,0.001049,6.0,0.000092,0.006294,0.006386,3132,104
+Cohere R+,Estimated tokens ,1,43,922,0.000043,2 .5 ,0.000922,10.0,0.0001075, 0.00922,0.009328 ​,2144,71
+Cohere R,Estimated tokens ,1,43,922,0.000043,0.3,0.000922,1.2,0.0000129,0.0011064,0.0011193,17868,596

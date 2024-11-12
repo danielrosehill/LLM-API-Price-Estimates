@@ -1,5 +1,11 @@
 # LLM Cost Estimates: Web UIs vs APIs
 
+## Summary
+
+- See: `findings.md` (carried out 12th Nov 2024)
+
+## Why Calculate This?
+
 This repository provides a few notes intended to help me (and anyone else) make some quick back-of-the-envelope style calculations to assess the comparative costs of using commercial large language models (LLMs) via APIs versus through web UIs. 
 
 Accessing commercial LLMs through their web UIs is convenient and (from a budgetary standpoint) *"safe"*: you get a fixed monthly bill. 
