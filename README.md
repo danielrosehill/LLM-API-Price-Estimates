@@ -1,8 +1,34 @@
 # LLM Cost Estimates: Web UIs vs APIs
 
+## The Answer - 12 Nov 2024
+
 ## Summary
 
-- See: `findings.md` (carried out 12th Nov 2024)
+| LLM              | Total Cost ($) | Per $20 | Per-Day |
+|------------------|------------|-----------|---------|
+| GPT 4o           | 0.009328   | 2144      | 71      |
+| GPT 4o mini      | 0.000618   | 32378     | 1080    |
+| Mistral Large    | 0.006380   | 3135      | 105     |
+| Claude 3.5       | 0.014664   | 1364      | 46      |
+| Claude 3 Opus    | 0.087660   | 228       | 7.6     |
+| Cohere R+        | 0.009328   | 2144      | 71      |
+| Cohere R        | 0.0011193   | 17868      | 596      |
+
+---
+
+## Charts
+
+### Total prompts-and-outputs per $20 API spend
+
+Method: as above
+
+ ![alt text](charts/121124/per-month.png)
+
+### Per-day prompts-and-outputs for $20 monthly spend cap
+
+![](charts/121124/per-day.png)
+
+---
 
 ## Why Calculate This?
 
