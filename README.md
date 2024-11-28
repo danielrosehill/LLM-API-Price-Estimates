@@ -4,11 +4,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/LLM-UI-Or-API)
 
-Note: this data is the output of a static (one-time) data gathering session conducted on Nov 12th 2024. The accuracy of the data cannot be assumed at any point after this date. 
-
----
-
-## The Picture ... On 12 Nov 2024
+ ## On 12 Nov 2024
 
 ## Summary (LLMs By 'Family')
 
