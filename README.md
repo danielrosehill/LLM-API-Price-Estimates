@@ -63,9 +63,9 @@ Higher values = higher cost per million tokens (of input)
 
 ---
 
-## Understanding pricing: OpenAI API Models, 29-11-24
+# Data: 29/11/2024
 
-![alt text](charts/291124/multipliers.png)
+![alt text](charts/291124/openai-anthropic.png) 
 
 
 ## Why Calculate This?
