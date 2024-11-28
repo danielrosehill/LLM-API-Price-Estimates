@@ -1,5 +1,7 @@
 # LLM Cost Estimates: Web UIs vs APIs
 
+![alt text](images/sloth-and-old-computer.webp)
+
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/LLM-UI-Or-API)
 
 Note: this data is the output of a static (one-time) data gathering session conducted on Nov 12th 2024. The accuracy of the data cannot be assumed at any point after this date. 
