@@ -63,6 +63,11 @@ Higher values = higher cost per million tokens (of input)
 
 ---
 
+## Understanding pricing: OpenAI API Models, 29-11-24
+
+![alt text](charts/291124/multipliers.png)
+
+
 ## Why Calculate This?
 
 This repository provides a few notes intended to help me (and anyone else) make some quick back-of-the-envelope style calculations to assess the comparative costs of using commercial large language models (LLMs) via APIs versus through web UIs. 
