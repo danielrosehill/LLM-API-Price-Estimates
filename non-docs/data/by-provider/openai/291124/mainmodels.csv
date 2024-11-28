@@ -1,0 +1,9 @@
+Service Name,Input Cost Per Million Tokens,Output Cost Per Million Tokens
+GPT4o,$2.50,$10.00
+gpt-4o-mini,$0.150,$0.600
+o1-preview,$15.00,$60.00
+o1-mini,$3.00,$12.00
+chatgpt-4o-latest,$5.00,$15.00
+gpt-4-turbo,$10.00,$30.00
+gpt-4,$30.00,$60.00
+gpt-4-32k,$60.00,$120.00
